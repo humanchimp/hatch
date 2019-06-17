@@ -18,7 +18,7 @@
     "@topl/trot": "^0.8.1",
     "@wessberg/rollup-plugin-ts": "^1.1.55",
     "nyc": "^14.1.1",
-    "prettier": "^1.17.1",
+    "prettier": "^1.18.2",
     "rollup": "^1.15.6",
     "rollup-plugin-multi-entry": "^2.1.0",
     "typescript": "^3.5.2"
