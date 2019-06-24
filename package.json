@@ -16,7 +16,7 @@
   "devDependencies": {
     "@topl/stable": "^0.5.22",
     "@topl/trot": "^0.8.1",
-    "@wessberg/rollup-plugin-ts": "^1.1.58",
+    "@wessberg/rollup-plugin-ts": "^1.1.59",
     "nyc": "^14.1.1",
     "prettier": "^1.18.2",
     "rollup": "^1.16.2",
