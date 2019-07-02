@@ -14,7 +14,7 @@
     "prepublishOnly": "yarn test && yarn build && mv dist/cjs/yak.d.ts* dist && rm dist/*/yak.d.ts*"
   },
   "devDependencies": {
-    "@topl/stable": "^0.5.22",
+    "@topl/stable": "^0.5.23",
     "@topl/trot": "^0.8.1",
     "@wessberg/rollup-plugin-ts": "^1.1.59",
     "nyc": "^14.1.1",
