@@ -16,7 +16,7 @@
     "@wessberg/rollup-plugin-ts": "^1.2.12",
     "nyc": "^14.1.1",
     "rollup": "^1.29.0",
-    "prettier": "^1.18.2",
+    "prettier": "^2.3.0",
     "rollup-plugin-multi-entry": "^2.1.0",
     "typescript": "^3.6.3"
   },
